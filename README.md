@@ -1,2 +1,2 @@
 # PointOfSaleASP
-We have developed the project Point of sale on C#, ASP.NET and MSSQL. The main objective for developing this project is to manage different product kinds and generate bills
+We have developed the project Point of sale on C#, ASP.NET and MSSQL. The main objective for developing this project is to manage different product kinds and generate bills.It is safe user authentication system with role-based access control. I used MSSQL queries and stored procedures to guarantee optimal data access. It is quite straightforward and simple to use in C#. This project has many sophisticated modules, which provide the backend system a great deal of power. We have integrated a single payment system Cash on Delivery into the current system.  
